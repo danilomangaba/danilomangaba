@@ -7,15 +7,15 @@
 
 - 🤝 I’m looking for help with **SQL, Power BI, and Python**
 
-- 👨‍💻 All of my projects are available at [https://danilomangaba.wordpress.com/sobre/](https://danilomangaba.wordpress.com)
+- 👨‍💻 All of my projects are available at [https://danilomangaba.wordpress.com](https://danilomangaba.wordpress.com)
 
-- 📝 I regularly write articles on [https://danilomangaba.wordpress.com/sobre/](https://danilomangaba.wordpress.com)
+- 📝 I regularly write articles on [https://danilomangaba.wordpress.com](https://danilomangaba.wordpress.com)
 
 - 💬 Ask me about **GIS, Spatial Analysis, Spatial Data Science**
 
 - 📫 How to reach me **danilo.mangaba@gmail.com**
 
-- 📄 Know about my experiences [GIS Technician at PUC-Campinas; Remote Sensing Specialist at FUNCATE; Master in Geosciences and Environment;](GIS Technician at PUC-Campinas; Remote Sensing Specialist at FUNCATE; Master in Geosciences and Environment;)
+- 📄 Know about my experiences [GIS Technician at PUC-Campinas; Remote Sensing Specialist at FUNCATE; Master in Geosciences and Environment](GIS Technician at PUC-Campinas; Remote Sensing Specialist at FUNCATE; Master in Geosciences and Environment;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
