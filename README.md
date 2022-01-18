@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **danilo.mangaba@gmail.com**
 
-- 📄 Know about my experiences [GIS Technician at PUC-Campinas; Remote Sensing Specialist; Master in Geosciences and Environment at FUNCATE;](GIS Technician at PUC-Campinas; Remote Sensing Specialist; Master in Geosciences and Environment at FUNCATE;)
+- 📄 Know about my experiences [GIS Technician at PUC-Campinas; Remote Sensing Specialist at FUNCATE; Master in Geosciences and Environment;](GIS Technician at PUC-Campinas; Remote Sensing Specialist at FUNCATE; Master in Geosciences and Environment;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
